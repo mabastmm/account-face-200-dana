@@ -1,7 +1,7 @@
 {
-  "name": "jano",
+  "name": "begana",
   "version": "2.1.0",
-  "description": "jano",
+  "description": "begana",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
